@@ -2,7 +2,7 @@
 a showcase of projects completed / in progress at heartbeat game studio
 
 1. Crusades online - private server fork of Grand Chase <br/>
-https://www.youtube.com/watch?v=dbJKHYsIppU
+https://www.youtube.com/watch?v=dbJKHYsIppU<br/>
 Game was modded using Java, Lua 
 
 
