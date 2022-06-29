@@ -19,4 +19,4 @@ In both projects I was one of the **main gameplay and network programmers**. <br
 
 The game used both P2P/player to player (GameSparks API) and dedicated master server network architecture(Mirror Networking).  <br/>
 
-Code is currently unavailable due to non-disclosure agreement(NDA) but explanation of how code works is available anytime.
+Code is currently unavailable due to mutual non-disclosure agreement(NDA) but explanation of how code works is available anytime.
