@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=dbJKHYsIppU<br/>
 but our work is mutual in these projects (Can be verified)**<br/>
 In this we reimagined a fan inspired remake of the "Grand Chase" but with modern concepts and features. <br/>
 Game was developed and built with Unreal Engine, Unity Engine, C#, and C++. <br/>
-Networking was done using GameSparks (deprecated) and GameLift API<br/>
+Networking was done using GameSparks (deprecated) and AWS GameLift API<br/>
 This was not the final/polished version, but this is what remained after completion of my time at HeartBeat Studio<br/>
 
 In both projects I was one of the **main gameplay and network programmers**. <br/>
